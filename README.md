@@ -1,3 +1,2 @@
-# Html_And_Css_Template_Two
-HTML AND CSS TEMPLATE NUMBER 2 || KASPER TEMPLATE
-# Test
+# Kasper Template
+This project involves developing a Leon template using HTML and CSS. I worked on this template to enhance my coding abilities by creating practical, real-world projects.
